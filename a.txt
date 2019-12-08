@@ -1,2 +1,3 @@
 the first time!
 hard work and marry beautiful gril,up to the life's peak!
+test git add -u and git add .
